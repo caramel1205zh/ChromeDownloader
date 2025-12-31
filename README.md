@@ -43,3 +43,5 @@ jpackage --type dmg --name "ChromeDownloader" --input app --main-jar ChromeDownl
 If you need a portable version of Chrome browser, try:
 - **Chrome++**: [https://github.com/Bush2021/chrome_plus](https://github.com/Bush2021/chrome_plus)
 
+<img width="1002" height="512" alt="QQ_1767193948961" src="https://github.com/user-attachments/assets/0d66d853-3e65-4040-8c93-a00422663321" />
+
