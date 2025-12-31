@@ -1,10 +1,6 @@
 # ChromeDownloader Tool
 💕💕 Download Google Chrome offline installer for x64 Windows or macOS
 
-## Features
-- Download Windows x64 offline installer
-- Download macOS universal installer (compatible with Intel and Apple Silicon processors)
-
 ## System Requirements
 - **JDK**: Bellsoft Liberica Full JDK (includes JavaFX)
 - **OS**: Windows or macOS
@@ -46,3 +42,4 @@ jpackage --type dmg --name "ChromeDownloader" --input app --main-jar ChromeDownl
 ## Portable Chrome
 If you need a portable version of Chrome browser, try:
 - **Chrome++**: [https://github.com/Bush2021/chrome_plus](https://github.com/Bush2021/chrome_plus)
+
